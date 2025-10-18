@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Caption Syncer",
+  "description": "An intelligent tool that automatically synchronizes your video with provided caption text. Upload a video and a text file, and our AI will generate perfectly timed subtitles, ready for viewing.",
+  "requestFramePermissions": []
+}
